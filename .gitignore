@@ -1,1 +1,26 @@
+# Secrets
 .env
+
+# Uploaded files and chunks
+uploads/
+uploads/chunks/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# Logs
+*.log
